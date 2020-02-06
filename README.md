@@ -2,7 +2,7 @@ Welcome!
 ===================
 
 
-This is your Android challenge as part of the Zenjob interview process. This repository should contain all necessary information to solve the tasks. 
+This is your Android challenge as part of the interview process. This repository should contain all necessary information to solve the tasks. 
 As part of your challenge you will develop a simple Android Application in **Kotlin** and an additional library set of your choice.
 
 
